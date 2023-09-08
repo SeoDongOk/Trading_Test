@@ -1,4 +1,5 @@
 import axios from 'axios';
+import 'dotenv';
 
 
 const rawData = async ()=>{
@@ -6,10 +7,11 @@ const rawData = async ()=>{
         headers:{
             "content-type":"application/json",
             // BINANCE_API_KEY is on .env
-            "apiKey":"BINANCE_API_KEY"
+            "apiKey":`${process.env.BINANCE_API_KEY}`
         }
     }
     //
+    
     const result_api = await axios.get('https://fapi.binance.com/api/v3/ticker/price', params);
     const data='';
     return data
