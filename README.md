@@ -11,6 +11,10 @@ This Test just Alert, is the Value of coin over the Bollinger Bands
 2. Then, the coin value is over the MV25?
   1) Yes -> Shot
   2) No -> Long
-3. Does the value change in the same direction for 4 consecutive times? -> STOP!
+3. Does the value change in the same direction for 4 consecutive times?
+4. after setp 3, is repulsive force  lower than total step 3 vale?
+5. Sell/ Buy target coin
+6. wait long movemonet
+7. Buy/ Sell after step 6
 
 ###################################
