@@ -15,6 +15,6 @@ This Test just Alert, is the Value of coin over the Bollinger Bands
 4. after setp 3, is repulsive force  lower than total step 3 vale?
 5. Sell/ Buy target coin
 6. wait long movemonet
-7. Buy/ Sell after step 6
+7. Buy/ Sell after step 6.
 
 ###################################
