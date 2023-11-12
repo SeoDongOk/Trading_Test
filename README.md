@@ -3,6 +3,7 @@ Futures trading test using Binance API
 
 
 using Bollinger Bands , Moving Average(7,25,99) Indicator.
+Binance API using for chart and trading
 
 This Test just Alert, is the Value of coin over the Bollinger Bands 
 
